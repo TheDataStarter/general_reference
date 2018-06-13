@@ -6,6 +6,8 @@ A collection of scripts, codeblocks, tricks and techniques I've picked up while 
 
 General codeblocks from Go Card project - [Jupyter notebook](https://github.com/TheDataStarter/general_reference/blob/master/Data%20Science%20-%20R%20codeblocks%20that%20are%20super%20useful%20-%20Dave%20Ainscough.ipynb) and [HTML](https://github.com/TheDataStarter/general_reference/blob/master/Data%20Science%20-%20R%20codeblocks%20that%20are%20super%20useful%20-%20Dave%20Ainscough.html)
 
+## Python Codeblocks
+
 Some introduction to Python Notes from Automate the Boring Stuff - [Jupyter notebook](https://github.com/TheDataStarter/general_reference/blob/master/Dave%20-%20Automate%20the%20Boring%20Stuff.ipynb) and [HTML](https://github.com/TheDataStarter/general_reference/blob/master/Dave%20-%20Automate%20the%20Boring%20Stuff.html)
 
 Ongoing DataCamp "Data Science in Python" course notes - [Jupyter notebook](https://github.com/TheDataStarter/general_reference/blob/master/DataCamp%20-%20Python%20for%20Data%20Science%20track.ipynb) and [HTML](https://github.com/TheDataStarter/general_reference/blob/master/DataCamp%20-%20Python%20for%20Data%20Science%20track.html)
