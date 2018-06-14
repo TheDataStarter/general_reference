@@ -10,7 +10,7 @@ General codeblocks from Go Card project - [Jupyter notebook](https://github.com/
 
 Some introduction to Python Notes from Automate the Boring Stuff - [Jupyter notebook](https://github.com/TheDataStarter/general_reference/blob/master/Dave%20-%20Automate%20the%20Boring%20Stuff.ipynb) and [HTML](https://github.com/TheDataStarter/general_reference/blob/master/Dave%20-%20Automate%20the%20Boring%20Stuff.html)
 
-Ongoing DataCamp "Data Science in Python" course notes - [Jupyter notebook](https://github.com/TheDataStarter/general_reference/blob/master/DataCamp%20-%20Python%20for%20Data%20Science%20track.ipynb) and [HTML](https://github.com/TheDataStarter/general_reference/blob/master/DataCamp%20-%20Python%20for%20Data%20Science%20track.html)
+DataCamp "Intro and Intermediate Data Science in Python" course notes - [Jupyter notebook](https://github.com/TheDataStarter/general_reference/blob/master/DataCamp%20-%20Intro%2BIntermediate%20Python%20for%20Data%20Science.ipynb) and [HTML](https://github.com/TheDataStarter/general_reference/blob/master/DataCamp%20-%20Intro%2BIntermediate%20Python%20for%20Data%20Science.html)
 
 ## DataCamp "Data Science in Python" track progress
 
@@ -18,7 +18,7 @@ Progress on DataCamp track:
 - [x] Finish course - Intro to Python for Data Science
 - [X] Upload notes - Intro to Python for Data Science
 - [X] Finish course - Intermediate Pyton for Data Science
-- [ ] Upload notes - Intermediate Pyton for Data Science
+- [X] Upload notes - Intermediate Pyton for Data Science
 - [ ] Finish course - Python Data Science Toolbox (Pt 1)
 - [ ] Upload notes - Python Data Science Toolbox (Pt 1)
 - [ ] Finish course - Python Data Science Toolbox (Pt 2)
